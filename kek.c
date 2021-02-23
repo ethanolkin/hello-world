@@ -48,6 +48,35 @@ https://cdn.intra.42.fr/video/video/434/low_d_BootCamp-d02-0-1080p.mp4 First ste
 https://cdn.intra.42.fr/video/video/437/low_d_BootCamp-d03-0-1080p.mp4 Introduction to pointers
 https://cdn.intra.42.fr/video/video/438/low_d_BootCamp-d03-1-1080p.mp4 Assignment
 https://cdn.intra.42.fr/video/video/439/low_d_BootCamp-d03-2-1080p.mp4 Dereferenciation
+https://cdn.intra.42.fr/video/video/440/low_d_BootCamp-d03-3-1080p.mp4 Pointer arithmetic
+https://cdn.intra.42.fr/video/video/441/low_d_BootCamp-d03-4-1080p.mp4 Arrays
+https://cdn.intra.42.fr/video/video/442/low_d_BootCamp-d03-5-1080p.mp4 Character string
+https://cdn.intra.42.fr/video/video/443/low_d_BootCamp-d03-6-1080p.mp4 Pointer usage
+https://cdn.intra.42.fr/video/video/445/low_d_BootCamp-C-42min-1080p.mp4 C in 42 min
+https://cdn.intra.42.fr/video/video/451/low_d_BootCamp-d04-0-1080p.mp4 Introduction
+https://cdn.intra.42.fr/video/video/452/low_d_BootCamp-d04-1-1080p.mp4 Recursion - Theory
+https://cdn.intra.42.fr/video/video/453/low_d_BootCamp-d04-2-1080p.mp4 Recursion - Practice
+https://cdn.intra.42.fr/video/video/454/low_d_BootCamp-d05-0-1080p.mp4 Char string manipulation
+https://cdn.intra.42.fr/video/video/455/low_d_BootCamp-d06-0-1080p.mp4 Introduction
+https://cdn.intra.42.fr/video/video/456/low_d_BootCamp-d06-1-1080p.mp4 Librairies
+https://cdn.intra.42.fr/video/video/457/low_d_BootCamp-d06-2-1080p.mp4 Main argument's (argc, argv)
+https://cdn.intra.42.fr/video/video/458/low_d_BootCamp-d07-0-1080p.mp4 Compilation's steps
+https://cdn.intra.42.fr/video/video/459/low_d_BootCamp-d07-1-1080p.mp4 Dynamic memory allocation
+https://cdn.intra.42.fr/video/video/460/low_d_BootCamp-d08-0-1080p.mp4 Preprocessing - Introduction
+https://cdn.intra.42.fr/video/video/461/low_d_BootCamp-d08-1-1080p.mp4 Preprocessing - #include
+https://cdn.intra.42.fr/video/video/462/low_d_BootCamp-d08-2-1080p.mp4 Preprocessing - file.h
+https://cdn.intra.42.fr/video/video/463/low_d_BootCamp-d08-3-1080p.mp4 Preprocessing - #define
+https://cdn.intra.42.fr/video/video/465/low_d_BootCamp-d08-4-1080p.mp4 Preprocessing - #ifdef/#ifndef
+https://cdn.intra.42.fr/video/video/467/low_d_BootCamp-d08-6-1080p.mp4 Data structures - Typedef
+https://cdn.intra.42.fr/video/video/468/low_d_BootCamp-d08-7-1080p.mp4 Data structures - Struct
+https://cdn.intra.42.fr/video/video/469/low_d_BootCamp-d08-8-1080p.mp4 Data structures - Enum
+https://cdn.intra.42.fr/video/video/472/low_d_BootCamp-d08-9-1080p.mp4 Data structures - Union
+https://cdn.intra.42.fr/video/video/475/low_d_BootCamp-d10-0-1080p.mp4 Day 10 Introduction
+https://cdn.intra.42.fr/video/video/476/low_d_BootCamp-d10-1-1080p.mp4 Compilation Problematic
+
+
+
+
 
 
 
