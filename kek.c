@@ -103,6 +103,27 @@ https://cdn.intra.42.fr/video/video/504/piscine_C_-_J04_-_0.mp4 Introduction
 https://cdn.intra.42.fr/video/video/521/piscine_C_-_J08_-_6.mp4 Typedef
 https://cdn.intra.42.fr/video/video/530/piscine_C_-_J00_-_1_3.mp4 Filesystem
 https://cdn.intra.42.fr/video/video/531/piscine_C_-_J00_-_0.mp4 Les commandes de base
+https://cdn.intra.42.fr/video/video/532/piscine_C_-_J00_-_2.mp4 Touch cat
+https://cdn.intra.42.fr/video/video/533/piscine_C_-_J01_-_0.mp4 Echo cat more
+https://cdn.intra.42.fr/video/video/534/piscine_C_-_J01_-_1.mp4 Head tail grep
+https://cdn.intra.42.fr/video/video/535/piscine_C_-_J01_-_2.mp4 Les redirections
+https://cdn.intra.42.fr/video/video/536/piscine_C_-_J01_-_3.mp4 Sort cut
+https://cdn.intra.42.fr/video/video/537/piscine_C_-_J01_-_4.mp4 wc ifconfig bc find env export
+https://cdn.intra.42.fr/video/video/538/piscine_C_-_J01_-_5.mp4 stdout/stderr
+https://cdn.intra.42.fr/video/video/549/BootCamp-d08-5-1080p.mp4 Preprocessing - Multiple inclusions
+https://cdn.intra.42.fr/video/video/550/piscine-C-J12-0-fr.mp4 Les fichiers - Introduction
+https://cdn.intra.42.fr/video/video/552/piscine-C-J10-2.mp4 Makefile - Introduction
+https://cdn.intra.42.fr/video/video/553/piscine-C-J12-0-fr.mp4 Fichiers - Introduction
+https://cdn.intra.42.fr/video/video/554/piscine-C-J08-5.mp4 Préprocesseur - Les inclusions multiples
+https://cdn.intra.42.fr/video/video/556/BootCamp-d03-7-1080p.mp4 void *
+https://cdn.intra.42.fr/video/video/557/piscine_C_-_J03_-_7.mp4 void *
+https://cdn.intra.42.fr/video/video/635/documentation_-_vogsphere_-_0_EN.mp4 Introduction to Vogsphere
+https://cdn.intra.42.fr/video/video/636/documentation-vogsphere-0-1080p.fr.mp4 Introduction a Vogsphere
+https://cdn.intra.42.fr/video/video/637/documentation_-_vogsphere_-_1_EN.mp4 Demonstration of Vogsphere
+https://cdn.intra.42.fr/video/video/647/Documentation-vogsphere-1-1080p.fr.mp4 Demonstration de la Vogsphere
+
+
+
 
 
 
