@@ -98,6 +98,11 @@ https://cdn.intra.42.fr/video/video/499/low_d_piscine_C_-_J03_-_2.mp4 Déréfér
 https://cdn.intra.42.fr/video/video/500/low_d_piscine_C_-_J03_-_3.mp4 Arithmétique des pointeurs
 https://cdn.intra.42.fr/video/video/501/low_d_piscine_C_-_J03_-_4.mp4 Les tableaux
 https://cdn.intra.42.fr/video/video/502/low_d_piscine_C_-_J03_-_5.mp4 Les chaines de caractères
+https://cdn.intra.42.fr/video/video/503/piscine_C_-_J03_-_6.mp4 L'utilisation des pointeurs
+https://cdn.intra.42.fr/video/video/504/piscine_C_-_J04_-_0.mp4 Introduction
+https://cdn.intra.42.fr/video/video/521/piscine_C_-_J08_-_6.mp4 Typedef
+https://cdn.intra.42.fr/video/video/530/piscine_C_-_J00_-_1_3.mp4 Filesystem
+https://cdn.intra.42.fr/video/video/531/piscine_C_-_J00_-_0.mp4 Les commandes de base
 
 
 
